@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 2.md",
+                "file": "content/posts/Untitled 2.md",
                 "mode": "source",
                 "source": false
               },
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 2.md",
+                "file": "content/posts/Untitled 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 2.md",
+                "file": "content/posts/Untitled 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 2.md",
+                "file": "content/posts/Untitled 2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,20 +190,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3ea40bddd1926d16",
+  "active": "b3d2f2100fabd792",
   "lastOpenFiles": [
+    "Untitled 1.md",
+    "content/posts/Untitled 2.md",
+    "Untitled.md",
     "content/posts/第三次.md",
-    "Untitled 2.md",
     "content/posts/第二次测试.md",
     "templates/hugo-post.md.md",
     "archetypes/default.md",
-    "Untitled 1.md",
     "templates/new-blog-post-script.md.md",
     "content/archives/_index.md",
     "content/posts/my-article-title.md",
     "content/posts/Untitled.md",
     "content/posts/first-post.md",
-    "Untitled.md",
     "static/images/R-C.jpg",
     "content/tags/_index.md",
     "static",
