@@ -50,6 +50,7 @@ weight = 0
 ```python
 # 代码示例
 print("Hello World")
+```
 
 ## 关键要点
 
