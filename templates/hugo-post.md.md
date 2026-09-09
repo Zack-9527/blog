@@ -1,31 +1,31 @@
 +++
 title = '{{ replace .File.ContentBaseName "-" " " | title }}'
-date = '{{ .Date }}'
-description = '在这里填写文章描述，将显示在搜索结果和预览中'
-draft = false
+date: <% tp.date.now("YYYY-MM-DDTHH:mm:ss+08:00") %>
+description = "在这里填写文章描述，将显示在搜索结果和预览中"
+draft = true
 
 # 文章分类和标签
-tags = ['Tag1', 'Tag2', 'Tag3']
-categories = ['Category1']
+tags = []
+categories = []
 
-# 封面图片（可选）
-cover = '/images/cover.jpg'
-coverAlt = '封面图片描述'
-coverCaption = '图片来源'
+# 封面图片（PaperMod 专属规范嵌套结构）
+[cover]
+image = ""          # 图片路径，如 "images/cover.jpg"
+alt = "封面图片描述"
+caption = "图片来源"
+relative = false
 
-# 显示选项
+# 页面显示选项
 ShowToc = true           # 显示目录
 TocOpen = false          # 目录是否默认展开
 ShowReadingTime = true   # 显示阅读时间
 ShowPostNavLinks = true  # 显示上一篇/下一篇
-ShowCodeCopyButtons = true
-ShowWordCount = true
+ShowCodeCopyButtons = true # 显示代码复制按钮
+ShowWordCount = true     # 显示字数统计
 
-# 作者信息（可选）
+# 元数据
 author = "作者名"
 canonicalURL = ""
-
-# 权重（影响排序）
 weight = 0
 +++
 
@@ -47,10 +47,9 @@ weight = 0
 
 ## 代码示例
 
-\`\`\`python
+```python
 # 代码示例
 print("Hello World")
-\`\`\`
 
 ## 关键要点
 

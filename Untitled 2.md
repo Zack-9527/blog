@@ -1,6 +1,6 @@
 +++
 title = '{{ replace .File.ContentBaseName "-" " " | title }}'
-date: <% tp.date.now("YYYY-MM-DDTHH:mm:ss+08:00") %>
+date: 2026-09-10T01:18:19+08:00
 description = "在这里填写文章描述，将显示在搜索结果和预览中"
 draft = true
 
