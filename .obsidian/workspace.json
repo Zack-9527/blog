@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/first-post.md",
+                "file": "content/posts/第二次测试.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "first-post"
+              "title": "第二次测试"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/posts/first-post.md",
+                "file": "content/posts/第二次测试.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/posts/first-post.md",
+                "file": "content/posts/第二次测试.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/posts/first-post.md",
+                "file": "content/posts/第二次测试.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -193,9 +193,13 @@
   "active": "3ea40bddd1926d16",
   "lastOpenFiles": [
     "content/posts/Untitled.md",
-    "content/tags/_index.md",
     "content/posts/first-post.md",
+    "content/posts/第二次测试.md",
+    "Untitled.md",
+    "templates/new-blog-post-script.md.md",
+    "templates/hugo-post.md.md",
     "static/images/R-C.jpg",
+    "content/tags/_index.md",
     "static",
     "content/archives/_index.md",
     "public/posts/index.xml",
@@ -207,7 +211,6 @@
     "public/tags/index.xml",
     "public/tags/hugo",
     "public/tags",
-    "blog/images.md",
-    "templates/hugo-post.md.md"
+    "blog/images.md"
   ]
 }
