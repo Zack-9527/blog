@@ -1,0 +1,46 @@
+baseURL = "https://zack-9527.github.io/blog/"
+languageCode = "zh-cn"
+title = "我的个人博客"
+theme = "PaperMod"
+
+# 开启文章目录及参数配置
+[params]
+  defaultTheme = "auto"
+  disableThemeToggle = false
+  ShowReadingTime = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowWordCount = true
+  ShowRssButtonInSectionTermList = true
+  UseHugoToc = true
+  coverHidden = false
+  ShowAllPosts = true
+
+# 首页布局配置
+[params.homeInfoParams]
+  Title = "👋 欢迎来到我的博客"
+  Content = "记录技术学习、随笔想法"
+
+# 导航菜单
+[menu]
+  [[menu.main]]
+    name = "首页"
+    pageRef = "/"
+    weight = 10
+  [[menu.main]]
+    name = "文章"
+    pageRef = "/posts"
+    weight = 20
+  [[menu.main]]
+    name = "标签"
+    pageRef = "/tags"
+    weight = 30
+  [[menu.main]]
+    name = "归档"
+    pageRef = "/archives"
+    weight = 40
+
+# 开启标签、归档页面
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
