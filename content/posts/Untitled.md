@@ -1,6 +1,6 @@
 ---
 title: "{{tp.file.title}}"
-date: <% tp.date.now("YYYY-MM-DDTHH:mm:ss+08:00") %>
+date: 2026-09-09T23:30:00+08:00
 draft: false
 tags:
   - 测试
