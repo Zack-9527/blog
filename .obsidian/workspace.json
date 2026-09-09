@@ -192,6 +192,12 @@
   },
   "active": "3ea40bddd1926d16",
   "lastOpenFiles": [
+    "content/posts/Untitled.md",
+    "content/tags/_index.md",
+    "content/posts/first-post.md",
+    "static/images/R-C.jpg",
+    "static",
+    "content/archives/_index.md",
     "public/posts/index.xml",
     "public/posts",
     "public/index.xml",
@@ -201,14 +207,7 @@
     "public/tags/index.xml",
     "public/tags/hugo",
     "public/tags",
-    "public/categories/index.xml",
-    "public/archives/index.xml",
     "blog/images.md",
-    "content/posts/first-post.md",
-    "content/posts/Untitled.md",
-    "templates/hugo-post.md.md",
-    "images/R-C.jpg",
-    "content/tags/_index.md",
-    "content/archives/_index.md"
+    "templates/hugo-post.md.md"
   ]
 }

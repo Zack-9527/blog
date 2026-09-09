@@ -9,4 +9,4 @@ categories: []
 
 # 一
 > **比起对比行为不端**
-> ![图片描述](/images/R-C.jpg)
+> ![图片描述](R-C.jpg)
