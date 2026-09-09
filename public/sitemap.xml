@@ -1,1 +1,31 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml"><url><loc>https://zack-9527.github.io/zack/</loc><lastmod>2026-09-09T18:49:57+08:00</lastmod></url><url><loc>https://zack-9527.github.io/zack/posts/first-post/</loc><lastmod>2026-09-09T00:00:00+08:00</lastmod></url><url><loc>https://zack-9527.github.io/zack/tags/hugo/</loc><lastmod>2026-09-09T00:00:00+08:00</lastmod></url><url><loc>https://zack-9527.github.io/zack/posts/</loc><lastmod>2026-09-09T00:00:00+08:00</lastmod></url><url><loc>https://zack-9527.github.io/zack/tags/%E6%B5%8B%E8%AF%95/</loc><lastmod>2026-09-09T00:00:00+08:00</lastmod></url><url><loc>https://zack-9527.github.io/zack/tags/</loc><lastmod>2024-01-01T00:00:00+00:00</lastmod></url><url><loc>https://zack-9527.github.io/zack/categories/</loc></url></urlset>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2026-09-09T23:30:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2026-09-09T23:30:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/%E6%B5%8B%E8%AF%95/</loc>
+    <lastmod>2026-09-09T23:30:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/untitled/</loc>
+    <lastmod>2026-09-09T23:30:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/first-post/</loc>
+    <lastmod>2026-09-09T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/hugo/</loc>
+    <lastmod>2026-09-09T00:00:00+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/archives/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+  </url>
+</urlset>

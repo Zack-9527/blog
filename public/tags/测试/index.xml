@@ -1,1 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/"><channel><title>测试 on 我的个人博客</title><link>https://zack-9527.github.io/zack/tags/%E6%B5%8B%E8%AF%95/</link><description>Recent content in 测试 on 我的个人博客</description><generator>Hugo</generator><language>zh-cn</language><lastBuildDate>Wed, 09 Sep 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://zack-9527.github.io/zack/tags/%E6%B5%8B%E8%AF%95/index.xml" rel="self" type="application/rss+xml"/><item><title>First Post</title><link>https://zack-9527.github.io/zack/posts/first-post/</link><pubDate>Wed, 09 Sep 2026 00:00:00 +0800</pubDate><guid>https://zack-9527.github.io/zack/posts/first-post/</guid><description>&lt;p&gt;这里写你的文章正文内容&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>测试 on 我的个人博客</title>
+    <link>http://localhost:1313/tags/%E6%B5%8B%E8%AF%95/</link>
+    <description>Recent content in 测试 on 我的个人博客</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Wed, 09 Sep 2026 23:30:00 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%E6%B5%8B%E8%AF%95/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>测试简章</title>
+      <link>http://localhost:1313/posts/untitled/</link>
+      <pubDate>Wed, 09 Sep 2026 23:30:00 +0800</pubDate>
+      <guid>http://localhost:1313/posts/untitled/</guid>
+      <description>&lt;h1 id=&#34;一&#34;&gt;一&lt;/h1&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;比起对比行为不端&lt;/strong&gt;&#xA;&lt;img src=&#34;http://localhost:1313/images/R-C.jpg&#34; alt=&#34;图片描述&#34;&gt;&lt;/p&gt;&lt;/blockquote&gt;</description>
+    </item>
+    <item>
+      <title>First Post</title>
+      <link>http://localhost:1313/posts/first-post/</link>
+      <pubDate>Wed, 09 Sep 2026 00:00:00 +0800</pubDate>
+      <guid>http://localhost:1313/posts/first-post/</guid>
+      <description>&lt;p&gt;这里写你的文章正文内容&#xA;&lt;img src=&#34;images/R-C.jpg&#34; alt=&#34;美丽风景&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
