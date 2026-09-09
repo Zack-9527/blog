@@ -32,7 +32,7 @@ cover:
   alt: Hugo PaperMod Template Cover
   caption: 图片来源：Unsplash
   relative: false
-  hidden: false
+  hidden: true
 ---
 
 文章导言部分：这是文章的第一段内容，通常用来简要介绍本文的核心议题。PaperMod 会自动解析首段或 Front Matter 中的 `description` 作为列表页面的摘要。
