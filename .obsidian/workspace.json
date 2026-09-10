@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/hugo-post.md.md",
+                "file": "content/posts/第四次测试.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "hugo-post.md"
+              "title": "第四次测试"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "templates/hugo-post.md.md",
+                "file": "content/posts/第四次测试.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "templates/hugo-post.md.md",
+                "file": "content/posts/第四次测试.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "templates/hugo-post.md.md",
+                "file": "content/posts/第四次测试.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -192,17 +192,18 @@
   },
   "active": "3ea40bddd1926d16",
   "lastOpenFiles": [
-    "content/posts/第三次.md",
     "templates/hugo-post.md.md",
+    "content/posts/第四次测试.md",
     "templates/new-blog-post-script.md.md",
+    "content/posts/第三次.md",
+    "content/posts/first-post.md",
+    "content/posts/Untitled.md",
+    "content/posts/第二次测试.md",
     "content/archives/_index.md",
     "content/tags/_index.md",
     "Untitled.md",
     "content/posts/Untitled 2.md",
     "archetypes/default.md",
-    "content/posts/Untitled.md",
-    "content/posts/第二次测试.md",
-    "content/posts/first-post.md",
     "Untitled 1.md",
     "content/posts/my-article-title.md",
     "static/images/R-C.jpg",
